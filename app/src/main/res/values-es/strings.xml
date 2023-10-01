@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TranslationTutorial</string>
+
+    <string name="q1"> What does the following sign show?</string>
+
+    <string name="text_translation">Hola y bienvenido a codingdemos, aquí aprenderá cómo desarrollar una aplicación para Android. Gracias por ver</string>
+
+</resources>
